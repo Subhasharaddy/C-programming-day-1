@@ -1,1 +1,1 @@
-# C-programming-day-1
+# C-programming-day1

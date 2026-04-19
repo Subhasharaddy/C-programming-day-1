@@ -1,4 +1,4 @@
-# C-programming-day1
+**C-programming-day1**
 #include<stdio.h>
 int main(){
     printf("hellow world");
